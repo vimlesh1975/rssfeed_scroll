@@ -4,7 +4,7 @@ scriptgsap.src = './js/gsap.min.js';
 scriptgsap.setAttribute('type', 'text/javascript');
 
 let messages = [];
-var _speed = 500;
+var _speed = 400;
 var _gap = 50;
 var _ltr = false;
 const nickbMethod = () => {
